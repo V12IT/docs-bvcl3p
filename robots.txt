@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-0dq74s.mpo1221brm.lat/sitemap.xml
